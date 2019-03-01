@@ -2,6 +2,7 @@
   "name": "emoji-face",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://alandrei.github.io/emojiface/",
   "dependencies": {
     "@tensorflow-models/posenet": "^0.2.3",
     "@tensorflow/tfjs": "^0.15.3",
@@ -17,6 +18,8 @@
   "scripts": {
     "start": "HTTPS=true react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

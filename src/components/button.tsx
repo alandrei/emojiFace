@@ -4,17 +4,10 @@ const buttonStyle = {
   active: {
     color: "#333",
     backgroundColor: "azure",
-    border: "1px solid #222",
+    boxShadow: "0 0 20px 1px black",
     borderRadius: "30px",
     padding: "5px 10px",
-    position: "absolute" as "absolute",
-    margin: "5px"
-  },
-  absolute: {
-    top: "50px",
-    left: "50%",
-    zIndex: 999,
-    transform: "translateX(-50%)"
+    margin: "15px"
   },
   disabled: {
     color: "#AAA",
@@ -26,15 +19,13 @@ interface ButtonProps {
   label: String;
   onClick(): void;
   disabled?: boolean;
-  absolute?: boolean;
 }
 
 const Button: React.SFC<ButtonProps> = props => (
   <button
     style={{
       ...buttonStyle.active,
-      ...(props.disabled ? buttonStyle.disabled : {}),
-      ...(props.absolute ? buttonStyle.absolute : {})
+      ...(props.disabled ? buttonStyle.disabled : {})
     }}
     onClick={props.onClick}
     disabled={props.disabled}
