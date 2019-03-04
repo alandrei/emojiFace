@@ -1,14 +1,14 @@
 {
-  "main.css": "/emojiface/static/css/main.e6ef1cca.chunk.css",
-  "main.js": "/emojiface/static/js/main.c4131a5c.chunk.js",
-  "main.js.map": "/emojiface/static/js/main.c4131a5c.chunk.js.map",
+  "main.css": "/emojiface/static/css/main.a8c0d2ad.chunk.css",
+  "main.js": "/emojiface/static/js/main.5855baaf.chunk.js",
+  "main.js.map": "/emojiface/static/js/main.5855baaf.chunk.js.map",
   "runtime~main.js": "/emojiface/static/js/runtime~main.7b75e1dd.js",
   "runtime~main.js.map": "/emojiface/static/js/runtime~main.7b75e1dd.js.map",
-  "static/js/2.d95e090e.chunk.js": "/emojiface/static/js/2.d95e090e.chunk.js",
-  "static/js/2.d95e090e.chunk.js.map": "/emojiface/static/js/2.d95e090e.chunk.js.map",
+  "static/js/2.c980ecba.chunk.js": "/emojiface/static/js/2.c980ecba.chunk.js",
+  "static/js/2.c980ecba.chunk.js.map": "/emojiface/static/js/2.c980ecba.chunk.js.map",
   "index.html": "/emojiface/index.html",
-  "precache-manifest.78e1e6322cdf0dc47ea00887e32da764.js": "/emojiface/precache-manifest.78e1e6322cdf0dc47ea00887e32da764.js",
+  "precache-manifest.05b8f7b1406e838cb3d280f3a841a5d4.js": "/emojiface/precache-manifest.05b8f7b1406e838cb3d280f3a841a5d4.js",
   "service-worker.js": "/emojiface/service-worker.js",
-  "static/css/main.e6ef1cca.chunk.css.map": "/emojiface/static/css/main.e6ef1cca.chunk.css.map",
+  "static/css/main.a8c0d2ad.chunk.css.map": "/emojiface/static/css/main.a8c0d2ad.chunk.css.map",
   "static/media/nose.svg": "/emojiface/static/media/nose.f668a93b.svg"
 }
