@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/emojiface/static/media/nose.f668a93b.svg"
   },
   {
-    "revision": "b5524981dd6ed844481865d1f0786e16",
+    "revision": "6ffb873dac01ed4733a5042a06aef7a5",
     "url": "/emojiface/index.html"
   }
 ];
